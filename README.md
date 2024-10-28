@@ -44,4 +44,3 @@ Which assumptions are required, if any, to apply the method selected?
 What are the potential limitations or weaknesses of the method selected?
 How are you going to compare and select the model?
 How are you going to process the data to apply the model? For example: Are you splitting the data? How? How many splits? What proportions will you use for the splits? At what stage will you split? Will there be a validation set? Will you use cross validation?
-
