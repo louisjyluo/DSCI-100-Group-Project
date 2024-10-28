@@ -10,7 +10,7 @@ We're mainly looking at the *player.csv* file. There are 9 variable columns, "ex
 - hashedEmail: The player's email hashed to conceal their email infomation
 - played_hours: The total hours this player has spent playing on the server
 - name: The given name of the player based on the options on the website when you first register
-- gender: The gender of the player, either Male, Female, Non-binary, Two Spirited, Prefer not to say, or Other
+- gender: The gender of the player, either Male, Female, Non-binary, Two Spirited, Agender, Prefer not to say, or Other
 - age: The age of the player
 - individualId: The id of the player, which is all NaN for now
 - organizationName: The organization name of the player, which is all NaN for now
