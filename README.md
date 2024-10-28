@@ -22,12 +22,12 @@ Clearly state one question your group will try to answer using the selected data
 
 ## Question 1: We would like to know which "kinds" of players are most likely to contribute a large amount of data so that we can target those players in our recruiting efforts. ##
 
-Since we're looking at which kind of player are most likely to contribute to large amount of data. We need to look at the players experience, gender, age, and compare it to the total hours spent on the game.
+Since we're looking at which kind of player are most likely to contribute to large amount of data. We need to look at the players experience, gender, age, subscribe, and compare it to the total hours spent on the game. For gender we'll look at the total hours spent by each gender, it will most likely be a histogram that has 4 sections with the mean time spent on the game for each gender. We can also use a histogram to plot the player experience against the average hour spent on the game. For age we can create a scatter plot plotting the age of the player against the time spent on the game. For subscribe since it's a boolean value, we can use a histogram as well and plot the average time played by a player who has subscribed versus a player who hasn't.
 
 (3) Exploratory Data Analysis and Visualization
 In this assignment, you will:
 
-Demonstrate that the dataset can be loaded into R.
+Demonstrate that the dataset can be loaded into Python.
 Do the minimum necessary wrangling to turn your data into a tidy format. Do not do any additional wrangling here; that will happen later during the group project phase.
 Make a few exploratory visualizations of the data to help you understand it.
 Use our visualization best practices to make high-quality plots (make sure to include labels, titles, units of measurement, etc)
